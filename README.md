@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, TailwindCSS**
 
 - 📫 How to reach me **contact@hakancelik.me**
 
