@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React, TailwindCSS**
 
-- 📫 How to reach me **contact@hakancelik.me**
+- 📫 How to reach me **hakan@randevum.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
