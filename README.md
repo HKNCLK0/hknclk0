@@ -7,8 +7,8 @@ Full Stack Developer
 I've been developing with React JS for over 2 years. In the last 6 months, I have developed projects with NodeJS and React-Native. I have intermediate level electronics and embedded system knowledge.
 
 * 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [hakan@randevum.tech](mailto:hakan@randevum.tech)
-* 🚀  I'm currently working on [Randevum](http://randevum.tech)
+* ✉️  You can contact me at [hakan@celik.dev](mailto:hakan@celik.dev)
+* 🚀  I'm currently working on [Pooly](https://poolytech.com)
 * 🧠  I'm learning Python
 
 ### Skills
