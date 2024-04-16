@@ -4,7 +4,7 @@ Hi 👋 My name is Hakan Çelik
 Full Stack Developer
 --------------------
 
-I've been developing with React JS for over 2 years. In the last 6 months, I have developed projects with NodeJS and React-Native. I have intermediate level electronics and embedded system knowledge.
+I've been developing with React JS for over 3.5 years. In the last 2 year, I have developed projects with NodeJS and React-Native. I have intermediate level electronics and embedded system knowledge.
 
 * 🌍  I'm based in Istanbul
 * ✉️  You can contact me at [hakan@celik.dev](mailto:hakan@celik.dev)
